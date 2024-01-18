@@ -1,0 +1,47 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+#main{
+  width: 626px;
+  margin: auto;
+  padding-top: 25px;  
+}
+h1{
+    font-family: dosis;
+    font-weight: normal;
+}
+h1 span {
+    font-weight: bolder;
+}
+p{
+    font-family: sans-serif;
+    color: #828282;
+    padding: 2px;
+
+}
+.pink{
+    color: #EE24FF;
+}
+.gray{
+    color: #828282;
+}
+.blue-black{
+    color: #3F3D56;
+}
+#footer{
+    margin-top: 50px;
+}
+#line{
+    border: 1px solid #ECEFF2;
+    width: 391px;
+    margin: auto;
+}
+
+#footer p strong span{
+    margin: 10px;
+}
+#footer img{
+    border: 0;
+    width: 100%;
+}
